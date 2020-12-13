@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="315d8ccd-4985-486f-9516-65b3c4757335" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lLjPOuHWYpkh2FcHwQdbRHCwD7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.flappy">
+    <configuration name="flappy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flappyBird" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flappy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pygame" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="flappyBird" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.flappy" />
+        <item itemvalue="Python.pygame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="315d8ccd-4985-486f-9516-65b3c4757335" name="Default Changelist" comment="" />
+      <created>1607383241787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607383241787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="28" key="#Project_Structure" timestamp="1607386306247">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="28" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1607386306247" />
+    <state width="709" height="159" key="GridCell.Tab.0.bottom" timestamp="1607634525890">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="709" height="159" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607481227925" />
+    <state width="709" height="159" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1607634525890" />
+    <state width="709" height="159" key="GridCell.Tab.0.center" timestamp="1607634525889">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="709" height="159" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607481227923" />
+    <state width="709" height="159" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1607634525889" />
+    <state width="709" height="159" key="GridCell.Tab.0.left" timestamp="1607634525888">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="709" height="159" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607481227922" />
+    <state width="709" height="159" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1607634525888" />
+    <state width="709" height="159" key="GridCell.Tab.0.right" timestamp="1607634525889">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="709" height="159" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607481227924" />
+    <state width="709" height="159" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1607634525889" />
+    <state x="216" y="101" key="SettingsEditor" timestamp="1607386445713">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="216" y="101" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1607386445713" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
